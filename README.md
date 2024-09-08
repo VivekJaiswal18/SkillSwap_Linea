@@ -1,7 +1,7 @@
 # SkillSwap
 
 
-[SkillSwap]() is an innovative educational platform that leverages advanced technologies to provide comprehensive and engaging learning experiences. The platform combines web crawling, GPT-based information processing, YouTube integration, and quiz assessments to empower learners with a holistic and effective learning experience.
+[SkillSwap](https://skill-swap-linea.vercel.app/) is an innovative educational platform that leverages advanced technologies to provide comprehensive and engaging learning experiences. The platform combines web crawling, GPT-based information processing, YouTube integration, and quiz assessments to empower learners with a holistic and effective learning experience.
 
 ## Contract
 The smart contract used in this project is deployed on Linea Sepolia chain.
